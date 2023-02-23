@@ -4,6 +4,12 @@ Deletes all posts and their associated images that are older than 90 days in you
 
 # cronjob
 
-Once plugin is activated, you'd need to add following cronjob that runs once a day or week.
+Make sure your wordpress cronjob is working. 
 
-php /path/to/wordpress/wp-content/plugins/auto-post-cleanup/auto-post-cleanup.php
+# Days
+
+You can change number of days in the file.
+
+# Post batch
+
+By default it delete 5 posts. you can change that as well.
