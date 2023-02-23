@@ -2,6 +2,10 @@
 
 Deletes all posts and their associated images that are older than 90 days in your WordPress website.
 
+# Download
+
+You can download plugin zip file.
+
 # cronjob
 
 Make sure your wordpress cronjob is working. 
